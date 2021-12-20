@@ -49,5 +49,5 @@ python stereo_depth.py --calibration_file data\stereo_cam.yml --left_source data
 
 ```
 
-![example](./data/bothImagesFixedStereo/left0.png)
+![example](./example.png)
 
